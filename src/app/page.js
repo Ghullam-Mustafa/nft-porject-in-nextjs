@@ -14,15 +14,15 @@ export default function Home() {
   return (
     <main >
       <Navbar/>
-        <HeroSection/>
+        {/* <HeroSection/>
         <TrendingCollection/>
         <TopCreater/>
         <BrowsCategories/>
         <DiscoverMore/>
         <FluidImg/>
         <HowItWorks/>
-        <Subscribe/>
-        <Footer/>
+        <Subscribe/> */}
+        {/* <Footer/> */}
     </main>
   )
 }
